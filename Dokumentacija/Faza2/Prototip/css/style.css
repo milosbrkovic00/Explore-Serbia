@@ -144,6 +144,13 @@ form {
     text-align: center;
 }
 
+.picture-space {
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding-top: 20px;
+    text-align: center;
+}
+
 .region-space {
     margin-top: 20px;
     margin-bottom: 5px;
